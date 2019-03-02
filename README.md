@@ -1,3 +1,9 @@
+# docker-frpc
+![Docker Automated build](https://img.shields.io/docker/automated/metajs/frpc.svg)
+![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/metajs/frpc/latest.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/metajs/frpc.svg)
+
+
 # usage
 
 - 将frpc.ini 放到/conf下
